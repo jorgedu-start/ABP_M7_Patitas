@@ -147,7 +147,7 @@ git clone https://github.com/jorgedu-start/ABP_M7_Patitas
 ## 2. Entrar a la carpeta del proyecto
 
 ```bash
-cd NOMBRE_DEL_PROYECTO
+cd ABP_M7_Patitas
 ```
 
 ## 3. Instalar las dependencias
