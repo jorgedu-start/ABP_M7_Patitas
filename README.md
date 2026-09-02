@@ -141,7 +141,7 @@ Esta separación permite mantener independientes las rutas, controladores, model
 ## 1. Clonar el repositorio
 
 ```bash
-git clone URL_DEL_REPOSITORIO
+git clone https://github.com/jorgedu-start/ABP_M7_Patitas
 ```
 
 ## 2. Entrar a la carpeta del proyecto
